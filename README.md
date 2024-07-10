@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FujiGitTatsuya&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/FujiGitTatsuya/github-readme-stats)
 <!--
 **FujiGitTatsuya/FujiGitTatsuya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
